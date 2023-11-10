@@ -3,8 +3,8 @@
 void main()
 {
 	int a[5]={1,2,3,2,3};	/*origina array*/
-	int b[5];
-	int c=0;
+	int b[5];		/*freq array*/
+	int c=0;		/*counter var*/
 
 	for(int i=0;i<5;i++)
 	{
