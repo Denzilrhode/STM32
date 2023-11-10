@@ -2,7 +2,7 @@
 
 void main()
 {
-	int a[5]={1,2,3,2,3};
+	int a[5]={1,2,3,2,3};	/*origina array*/
 	int b[5];
 	int c=0;
 
@@ -32,5 +32,4 @@ void main()
 		}
 	}
 }
-
 
