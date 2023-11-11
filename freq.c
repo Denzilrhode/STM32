@@ -6,7 +6,7 @@ void main()
 	int b[5];		/*freq array*/
 	int c=0;		/*counter var*/
 
-	for(int i=0;i<5;i++)
+	for(int i=0;i<5;i++)	/*Checks the freq*/
 	{
 		c=1;
 		if(a[i]!=-1)
